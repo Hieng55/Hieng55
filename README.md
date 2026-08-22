@@ -89,7 +89,7 @@
 | 👯 **Looking to collaborate on** | Open-source frontend tools & innovative web platforms |
 | 🤔 **Looking for help with** | Building large-scale design systems |
 | 💬 **Ask me about** | React.js, Next.js, frontend best practices, team leadership |
-| 📫 **How to reach me** | [hienlp17030021@gmail.com](mailto:hienlp17032001@gmail.com) |
+| 📫 **How to reach me** | [bosshieng55@gmail.com](mailto:bosshieng55@gmail.com) |
 | 😄 **Pronouns** | Hien Sir |
 | ⚡ **Fun fact** | I love teaching & mentoring — nothing's more fun than seeing my students and teammates grow 🚀 |
 
@@ -110,7 +110,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF1493)](https://facebook.com/PhuongHienIT)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8A2BE2)](https://instagram.com/devbietfixbug/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=00FFFF)](https://tiktok.com/@devbietfixbug)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=32CD32)](mailto:hienlp17032001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=32CD32)](mailto:bosshieng55@gmail.com)
 
 </div>
 
